@@ -1,1 +1,4 @@
-# hack2018
+# Code that written as part of the 2018 edition of the annual Hack Cambridge hackathon. This application resulted in our team being a finalist (out of 73 competing teams), as well as winning the 'Best Simulation' category which was sponsored by Improbable. 
+## I developed the code related to the Genetic Algorithm that was used in the application through using my knowledge of optimisation techniques. 
+## The application aims to determine the optimal time-power profile that cyclists should use (specific to their fitness levels as well as course and weather conditions) to maximise their efficiency and result in the best possible time in a time-trial race. 
+## Simulations done in Unity showed that our genetic algorithm backed power usage indicator resulted in far quicker race times than other power profiles (e.g. same power throughout, high at the start then gradually decrease) even though it used the same amount of total energy expenditure.
